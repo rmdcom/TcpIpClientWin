@@ -1,0 +1,11 @@
+/.svn
+/Debug/*.obj
+/Debug/*.sbr
+/Debug/*.ilk
+/Debug/*.pch
+/Debug/*.pdb
+/Debug/*.idb
+/*.dsp
+/*.ncb
+/*.opt
+/*.plg
